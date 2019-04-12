@@ -1,8 +1,5 @@
 language: java
 jdk:
   - oraclejdk8
-<<<<<<< HEAD
 before_install:
   - chmod +x mvnw
-=======
->>>>>>> e75ebc57154360b54f68462280f298bdc3e182a7
